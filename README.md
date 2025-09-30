@@ -20,7 +20,7 @@ In this lab we first started with the light switch on the stair way . When both 
 
 ### 1 - How might you add more than two bits together?
 
-To add more than two bits together you would use another full adder for additional radix.
+To add more than two bits together you would use another full adder for any additional radix.
 
 ### 2 - What is the importance of the XOR gate in an adder? 
 
